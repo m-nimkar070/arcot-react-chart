@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+## Deployment link
+https://arcot-react-chart.vercel.app/
+
 # Getting Started with Create React App
 ### npx create-react-app my-app
 
